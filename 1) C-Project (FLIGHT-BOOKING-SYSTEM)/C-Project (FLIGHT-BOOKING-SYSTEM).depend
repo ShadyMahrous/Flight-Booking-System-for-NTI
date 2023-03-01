@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1648723491 source:c:\users\admin\desktop\nti\c and embedded c\program\c-project (flight-booking-system)\fun.c
+	"header.h"
+
+1648723491 c:\users\admin\desktop\nti\c and embedded c\program\c-project (flight-booking-system)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1648723678 source:c:\users\admin\desktop\nti\c and embedded c\program\c-project (flight-booking-system)\main.c
+	"header.h"
+
+1648829180 source:e:\1nti\level  1   c\program\c-project (flight-booking-system)\fun.c
+	"header.h"
+
+1648724230 e:\1nti\level  1   c\program\c-project (flight-booking-system)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1648723678 source:e:\1nti\level  1   c\program\c-project (flight-booking-system)\main.c
+	"header.h"
+
+1648829180 source:e:\1nti\projects\1) c-project (flight-booking-system)\fun.c
+	"header.h"
+
+1648724230 e:\1nti\projects\1) c-project (flight-booking-system)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1648723678 source:e:\1nti\projects\1) c-project (flight-booking-system)\main.c
+	"header.h"
+
